@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tangsy27
-- 🌱 I’m currently learning deep learning
 - 📫you can contact me  2392499758@qq.com
 
 <!---
